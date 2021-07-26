@@ -1,0 +1,2 @@
+# HelloHugo
+Learning Hugo
